@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "3050",
+      "title": "nnnh",
+      "author": "mn",
+      "availability": "Available"
+    },
+    {
+      "id": "b676",
+      "title": "Book A",
+      "author": "Author A",
+      "availability": "Unavailable"
+    },
+    {
+      "id": "c68d",
+      "title": "Book B",
+      "author": "Author B",
+      "availability": "Available"
+    },
+    {
+      "id": "Tbl9gEg",
+      "title": "Book C",
+      "author": "Author C",
+      "availability": "Unavailable"
+    },
+    {
+      "id": "d089",
+      "bookName": "Atomic Habits ",
+      "authorName": "James Cear",
+      "availability": "Unavailable"
+    },
+    {
+      "id": "a954",
+      "bookName": "White Nights ",
+      "authorName": "James Cear",
+      "availability": "Unavailable"
+    },
+    {
+      "id": "057f",
+      "bookName": ",,,",
+      "authorName": "lll",
+      "availability": "Available"
+    }
+  ]
+}
